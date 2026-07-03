@@ -33,7 +33,7 @@ I'm a Junior Consultant at Mindsprint (a Wipro Company) with 1+ year of enterpri
 
 | Project | Stack | Description |
 |---|---|---|
-| [🏎️ F1 Race Analytics](https://github.com/arunim04/f1-race-analytics) | Python · SQL · Power BI | 7 seasons of F1 data — pole conversion rates, constructor dominance, driver consistency scoring |
+| [🏎️ F1 Race Analytics](https://github.com/arunim04/DataAnalytics/tree/main/Project/F1-race-Analytics) | Python · SQL · Power BI | 7 seasons of F1 data — pole conversion rates, constructor dominance, driver consistency scoring |
 | [🤸 Pose Estimation Suite](https://github.com/arunim04/pose-estimation) | Python · MediaPipe · OpenCV | 3 real-time CV apps on one CNN: gym rep counter, gesture game controller, sentiment classifier |
 | [🏠 Real Estate Platform](https://github.com/arunim04/realestateapp) | React · Node.js · MongoDB | Full-stack app with JWT auth, real-time Socket.io chat, and property listing management |
 
