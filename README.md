@@ -48,7 +48,7 @@ I'm a Junior Consultant at Mindsprint (a Wipro Company) with 1+ year of enterpri
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunim%20Sureka-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/arunim-sureka-118114228)
-[![Email](https://img.shields.io/badge/Email-arunim0408%40gmail.com-D14836?style=flat&logo=gmail)](mailto:arunimsureka@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arunimsureka%40gmail.com-D14836?style=flat&logo=gmail)](mailto:arunimsureka@gmail.com)
 
 ---
 
